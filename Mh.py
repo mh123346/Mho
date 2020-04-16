@@ -173,18 +173,18 @@ if mh =="5" :
     if mn =="13" :
         system ("python mh.py")    
 ###################################    
-if mh =="5" :   
-    system ("clear")
-    system ("apt update & apt upgrade")
-    system ("git clone https://github.com/inconshreveable/ngrok")      
-    print ("thanks for using MH Tool")
-    print ("14-exit")
-    print ("13-back")
-    mc =input ("write number: ")
-    if mc =="14" :
-        exit ()
-    if mc =="13" :
-        system ("python mh.py")
+
+
+
+
+ 
+
+
+
+
+
+
+
 ###################################        
 if mh =="6" :
     system ("clear")
@@ -314,10 +314,10 @@ if mh =="11" :
     if md =="13" :
         system ("python mh.py")  
 ###################################        
-if mh =="14" : 
-    system ("clear")
-    exit ()
-    print ("thanks for using MH Tool")
+
+
+
+
     
 if mh =="12" :    
 #####################################
